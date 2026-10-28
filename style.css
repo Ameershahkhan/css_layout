@@ -45,3 +45,45 @@ a{
 
 /* hero-styling */
 
+.hero{
+    padding: 90px 50px;
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937;
+    gap: 80px;
+}
+
+.text-holder{
+    width: 350px;
+}
+
+.main-text{
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+
+.img-holder{
+    width: 500px;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p{
+    font-size: 18px;
+    color: #F9FAF8;
+}
+
+.sign-up{
+    background-color: #3882F6;
+    border: none;
+    padding: 10px 25px;
+    color: white;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+
