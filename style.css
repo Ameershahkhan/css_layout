@@ -158,3 +158,45 @@ p{
     font-weight: 700;
     font-size: 20px;
 }
+
+
+/* call-to-action-section */
+
+.call-to-action-section{
+    padding: 60px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.wrap-action{
+    width: 70%;
+    display: flex;
+    padding: 49px;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882F6;
+    border-radius: 12px;
+}
+
+.btn{
+    background-color: #3882F6;
+    border: 2px solid white;
+    padding: 10px 24px;
+    border-radius: 8px;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.bold{
+    color: white;
+    font-size: 24px;
+    font-weight: 800;
+}
+
+.light{
+    color: white;
+}
