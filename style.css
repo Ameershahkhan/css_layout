@@ -130,3 +130,31 @@ p{
 .text{
     color: rgb(100, 98, 98);
 }
+
+
+/* quote section */
+
+.quote-section{
+    padding: 70px;
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote-wrapper{
+    width: 70%;
+}
+
+.quote{
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+}
+
+.sayer{
+    width: 300px;
+    margin-left: auto;
+    font-weight: 700;
+    font-size: 20px;
+}
