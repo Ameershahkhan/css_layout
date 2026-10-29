@@ -163,7 +163,7 @@ p{
 /* call-to-action-section */
 
 .call-to-action-section{
-    padding: 60px;
+    padding: 90px 0;
     background-color: white;
     display: flex;
     justify-content: center;
@@ -199,4 +199,18 @@ p{
 
 .light{
     color: white;
+}
+
+/* footer section */
+
+.footer{
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 36px;
+}
+
+.footer-text{
+    color: #F9FAF8;
 }
